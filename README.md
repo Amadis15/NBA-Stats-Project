@@ -1,0 +1,1 @@
+Aimed to extract data from the NBA Website using Python on Jupyter Notebook. I then converted the extracted data into Excel files, cleaned the data, queried the data using SQL on Microsoft SQL Server Management Studio, and finally visualized the data with Tableau.
